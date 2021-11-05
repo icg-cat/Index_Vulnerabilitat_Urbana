@@ -131,7 +131,7 @@ El text d’aquesta secció prové d’Antón-Alonso et al. (2020).
 
 > Taula 1: Dimensions, conceptes, indicadors i fonts de l’IVU
 
-<img src="https://github.com/icg-cat/Index_Vulnerabilitat_Urbana/blob/master/imatges/Screenshot%202021-09-29%20at%2014.18.50.png" />
+<img src="https://github.com/icg-cat/Index_Vulnerabilitat_Urbana/blob/master/imatges/Screenshot%202021-09-29%20at%2014.18.50.png" width="75%"/>
 
 > Les unitats territorials sobre les quals es calcula l’IVU són els
 > anomenats Àmbits Estadístics Metropolitans (AEM) \[veure Mapa 1\],
