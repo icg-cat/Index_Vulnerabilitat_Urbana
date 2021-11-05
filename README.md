@@ -131,7 +131,7 @@ El text d’aquesta secció prové d’Antón-Alonso et al. (2020).
 
 > Taula 1: Dimensions, conceptes, indicadors i fonts de l’IVU
 
-<img src="/Users/irenecg/Dropbox/2. Laboral/IERMB/2_Projectes_acabats/2020/IVU_SEM/Index_Vulnerabilitat_Urbana/imatges/Screenshot 2021-09-29 at 14.18.50.png" width="75%" />
+<img src="https://github.com/icg-cat/Index_Vulnerabilitat_Urbana/blob/master/imatges/Screenshot%202021-09-29%20at%2014.18.50.png" />
 
 > Les unitats territorials sobre les quals es calcula l’IVU són els
 > anomenats Àmbits Estadístics Metropolitans (AEM) \[veure Mapa 1\],
@@ -155,11 +155,11 @@ El text d’aquesta secció prové d’Antón-Alonso et al. (2020).
 
 > Mapa 1: Àmbits Estadístics Metropolitans
 
-<img src="/Users/irenecg/Dropbox/2. Laboral/IERMB/2_Projectes_acabats/2020/IVU_SEM/Index_Vulnerabilitat_Urbana/imatges/Mapa àmbits estadístics metropolitans.png" width="90%" />
+<img src="https://github.com/icg-cat/Index_Vulnerabilitat_Urbana/blob/master/imatges/Mapa%20%C3%A0mbits%20estad%C3%ADstics%20metropolitans.png" width="90%" />
 
 # Model sota contrast
 
-<img src="/Users/irenecg/Dropbox/2. Laboral/IERMB/2_Projectes_acabats/2020/IVU_SEM/Index_Vulnerabilitat_Urbana/imatges/Screenshot 2021-09-16 at 13.02.56.png" width="75%" />
+<img src="https://github.com/icg-cat/Index_Vulnerabilitat_Urbana/blob/master/imatges/Screenshot%202021-09-16%20at%2013.02.56.png" width="75%" />
 
 # Resultats de validació del model
 
@@ -373,13 +373,13 @@ A continuació es presenten un conjunt de mapes on es cartografien els
 resultats de l’IVU.
 
 **Mapa 2: Dimensió de la vulnerabilitat residencial. AMB, 2017**
-<img src="/Users/irenecg/Dropbox/2. Laboral/IERMB/2_Projectes_acabats/2020/IVU_SEM/Index_Vulnerabilitat_Urbana/imatges/200915_IVUres_2017.png" width="85%" />
+<img src="https://github.com/icg-cat/Index_Vulnerabilitat_Urbana/blob/master/imatges/200915_IVUres_2017.png" width="85%" />
 
 **Mapa 3: Dimensió de la vulnerabilitat social. AMB, 2017**
-<img src="/Users/irenecg/Dropbox/2. Laboral/IERMB/2_Projectes_acabats/2020/IVU_SEM/Index_Vulnerabilitat_Urbana/imatges/200915_IVUSoc_2017.png" width="85%" />
+<img src="https://github.com/icg-cat/Index_Vulnerabilitat_Urbana/blob/master/imatges/200915_IVUSoc_2017.png" width="85%" />
 
 **Mapa 4: Índex de vulnerabilitat urbana (IVU). AMB, 2017**
-<img src="/Users/irenecg/Dropbox/2. Laboral/IERMB/2_Projectes_acabats/2020/IVU_SEM/Index_Vulnerabilitat_Urbana/imatges/200915_IVUsimp_2017.png" width="85%" />
+<img src="https://github.com/icg-cat/Index_Vulnerabilitat_Urbana/blob/master/imatges/200915_IVUsimp_2017.png" width="85%" />
 
 # Comparació del model per anualitats
 
