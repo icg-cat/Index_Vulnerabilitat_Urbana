@@ -1,0 +1,16 @@
+cff-version: 1.1.0
+message: "If you use this repo, please cite it as below."
+authors:
+  - family-names: "Cruz"
+    given-names: "Irene"
+    orcid: "https://orcid.org/0000-0003-0980-5078"
+  - family-names: "Porcel"
+    given-names: "Sergio"
+    orcid: "https://orcid.org/0000-0001-6307-9754"
+   - family-names: "Antón-Alonso"
+    given-names: "Fernando"
+    orcid: "https://orcid.org/0000-0001-9304-1458"
+title: "Per un seguiment de la pobresa urbana a la metròpoli de Barcelona: Un nou Índex de Vulnerabilitat Urbana"
+version: 2.0
+date-released: 2021-11-08
+url: "https://github.com/icg-cat/Index_Vulnerabilitat_Urbana"
