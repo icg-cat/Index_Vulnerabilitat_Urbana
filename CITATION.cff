@@ -1,4 +1,4 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
 message: "If you use this repo, please cite it as below."
 authors:
   - family-names: "Cruz"
@@ -7,7 +7,7 @@ authors:
   - family-names: "Porcel"
     given-names: "Sergio"
     orcid: "https://orcid.org/0000-0001-6307-9754"
-   - family-names: "Antón-Alonso"
+  - family-names: "Antón-Alonso"
     given-names: "Fernando"
     orcid: "https://orcid.org/0000-0001-9304-1458"
 title: "Per un seguiment de la pobresa urbana a la metròpoli de Barcelona: Un nou Índex de Vulnerabilitat Urbana"
