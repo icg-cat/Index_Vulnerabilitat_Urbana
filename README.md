@@ -380,13 +380,13 @@ A continuació es presenten un conjunt de mapes on es cartografien els
 resultats de l’IVU.
 
 **Mapa 2: Dimensió de la vulnerabilitat residencial. AMB, 2017**
-<img src="/Users/irenecg/Dropbox/2. Laboral/IERMB/2_Projectes_acabats/2020/IVU_SEM/Index_Vulnerabilitat_Urbana/imatges/200915_IVUres_2017.png" width="85%" />
+<img src="https://github.com/icg-cat/Index_Vulnerabilitat_Urbana/blob/master/imatges/200915_IVUres_2017.png" width="85%" />
 
 **Mapa 3: Dimensió de la vulnerabilitat social. AMB, 2017**
-<img src="/Users/irenecg/Dropbox/2. Laboral/IERMB/2_Projectes_acabats/2020/IVU_SEM/Index_Vulnerabilitat_Urbana/imatges/200915_IVUSoc_2017.png" width="85%" />
+<img src="https://github.com/icg-cat/Index_Vulnerabilitat_Urbana/blob/master/imatges/200915_IVUSoc_2017.png" width="85%" />
 
 **Mapa 4: Índex de vulnerabilitat urbana (IVU). AMB, 2017**
-<img src="/Users/irenecg/Dropbox/2. Laboral/IERMB/2_Projectes_acabats/2020/IVU_SEM/Index_Vulnerabilitat_Urbana/imatges/200915_IVUsimp_2017.png" width="85%" />
+<img src="https://github.com/icg-cat/Index_Vulnerabilitat_Urbana/blob/master/imatges/200915_IVUsimp_2017.png" width="85%" />
 
 # Comparació del model per anualitats
 
