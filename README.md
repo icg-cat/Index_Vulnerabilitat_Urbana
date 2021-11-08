@@ -1,4 +1,4 @@
-README: Metodologia seguida en el càlcul del IVU
+README
 ================
 11/05/2021
 
@@ -131,7 +131,7 @@ El text d’aquesta secció prové d’Antón-Alonso et al. (2020).
 
 > Taula 1: Dimensions, conceptes, indicadors i fonts de l’IVU
 
-<img src="https://github.com/icg-cat/Index_Vulnerabilitat_Urbana/blob/master/imatges/Screenshot%202021-09-29%20at%2014.18.50.png" width="75%"/>
+<img src="https://github.com/icg-cat/Index_Vulnerabilitat_Urbana/blob/master/imatges/Screenshot%202021-09-29%20at%2014.18.50.png" width="75%" />
 
 > Les unitats territorials sobre les quals es calcula l’IVU són els
 > anomenats Àmbits Estadístics Metropolitans (AEM) \[veure Mapa 1\],
@@ -287,50 +287,50 @@ contenen el 0.
 
 |                          |    Original |   Mean.Boot | Std.Error |    perc.025 |    perc.975 |
 | :----------------------- | ----------: | ----------: | --------: | ----------: | ----------: |
-| VSoc-SOC\_estrangers     | \-0.3700730 | \-0.3789777 | 0.1523641 | \-0.6927857 | \-0.0740331 |
-| VSoc-SOC\_gentG          |   0.2496385 |   0.2494116 | 0.0812407 |   0.0895516 |   0.4244484 |
-| VSoc-SOC\_baixes         |   1.1741024 |   1.1748053 | 0.1275444 |   0.9473852 |   1.4524029 |
-| VResidencial-ESP\_ruinos |   0.2165441 |   0.2172330 | 0.0935971 |   0.0475954 |   0.4015663 |
-| VResidencial-ESP\_antig  |   0.6851378 |   0.6850159 | 0.0888132 |   0.4846515 |   0.8521077 |
-| VResidencial-ESP\_dens   |   0.3654748 |   0.3576008 | 0.1027094 |   0.1490401 |   0.5588242 |
-| VUrbana-URB\_estudis     |   0.4225793 |   0.4211800 | 0.0122495 |   0.3986459 |   0.4456801 |
-| VUrbana-URB\_noRA        |   0.3576481 |   0.3564778 | 0.0089577 |   0.3399635 |   0.3737895 |
-| VUrbana-URB\_lloguer     |   0.2954607 |   0.2972304 | 0.0131848 |   0.2724282 |   0.3218851 |
+| VSoc-SOC\_estrangers     | \-0.3700730 | \-0.4035771 | 0.1555144 | \-0.7102009 | \-0.1327864 |
+| VSoc-SOC\_gentG          |   0.2496385 |   0.2409000 | 0.0781496 |   0.0914047 |   0.3974550 |
+| VSoc-SOC\_baixes         |   1.1741024 |   1.2020174 | 0.1305543 |   0.9688102 |   1.4674600 |
+| VResidencial-ESP\_ruinos |   0.2165441 |   0.2173387 | 0.0925560 |   0.0152904 |   0.3798325 |
+| VResidencial-ESP\_antig  |   0.6851378 |   0.6758041 | 0.0901369 |   0.4939739 |   0.8315155 |
+| VResidencial-ESP\_dens   |   0.3654748 |   0.3656172 | 0.1029590 |   0.1651216 |   0.5571486 |
+| VUrbana-URB\_estudis     |   0.4225793 |   0.4205814 | 0.0123725 |   0.3994389 |   0.4450977 |
+| VUrbana-URB\_noRA        |   0.3576481 |   0.3566657 | 0.0085613 |   0.3391648 |   0.3729641 |
+| VUrbana-URB\_lloguer     |   0.2954607 |   0.2973697 | 0.0132115 |   0.2706216 |   0.3207201 |
 
 **Taula 5: Bootstrapping loadings**
 
 |                          |    Original |   Mean.Boot | Std.Error |    perc.025 |    perc.975 |
 | :----------------------- | ----------: | ----------: | --------: | ----------: | ----------: |
-| VSoc-SOC\_estrangers     | \-0.3700730 | \-0.3789777 | 0.1523641 | \-0.6927857 | \-0.0740331 |
-| VSoc-SOC\_gentG          |   0.2496385 |   0.2494116 | 0.0812407 |   0.0895516 |   0.4244484 |
-| VSoc-SOC\_baixes         |   1.1741024 |   1.1748053 | 0.1275444 |   0.9473852 |   1.4524029 |
-| VResidencial-ESP\_ruinos |   0.2165441 |   0.2172330 | 0.0935971 |   0.0475954 |   0.4015663 |
-| VResidencial-ESP\_antig  |   0.6851378 |   0.6850159 | 0.0888132 |   0.4846515 |   0.8521077 |
-| VResidencial-ESP\_dens   |   0.3654748 |   0.3576008 | 0.1027094 |   0.1490401 |   0.5588242 |
-| VUrbana-URB\_estudis     |   0.4225793 |   0.4211800 | 0.0122495 |   0.3986459 |   0.4456801 |
-| VUrbana-URB\_noRA        |   0.3576481 |   0.3564778 | 0.0089577 |   0.3399635 |   0.3737895 |
-| VUrbana-URB\_lloguer     |   0.2954607 |   0.2972304 | 0.0131848 |   0.2724282 |   0.3218851 |
+| VSoc-SOC\_estrangers     | \-0.3700730 | \-0.4035771 | 0.1555144 | \-0.7102009 | \-0.1327864 |
+| VSoc-SOC\_gentG          |   0.2496385 |   0.2409000 | 0.0781496 |   0.0914047 |   0.3974550 |
+| VSoc-SOC\_baixes         |   1.1741024 |   1.2020174 | 0.1305543 |   0.9688102 |   1.4674600 |
+| VResidencial-ESP\_ruinos |   0.2165441 |   0.2173387 | 0.0925560 |   0.0152904 |   0.3798325 |
+| VResidencial-ESP\_antig  |   0.6851378 |   0.6758041 | 0.0901369 |   0.4939739 |   0.8315155 |
+| VResidencial-ESP\_dens   |   0.3654748 |   0.3656172 | 0.1029590 |   0.1651216 |   0.5571486 |
+| VUrbana-URB\_estudis     |   0.4225793 |   0.4205814 | 0.0123725 |   0.3994389 |   0.4450977 |
+| VUrbana-URB\_noRA        |   0.3576481 |   0.3566657 | 0.0085613 |   0.3391648 |   0.3729641 |
+| VUrbana-URB\_lloguer     |   0.2954607 |   0.2973697 | 0.0132115 |   0.2706216 |   0.3207201 |
 
 **Taula 6: Bootstrapping paths**
 
-|                          |  Original | Mean.Boot | Std.Error |  perc.025 | perc.975 |
-| :----------------------- | --------: | --------: | --------: | --------: | -------: |
-| VSoc -\> VUrbana         | 0.5295425 | 0.5341134 | 0.0398461 | 0.4519148 | 0.605395 |
-| VResidencial -\> VUrbana | 0.2613748 | 0.2632162 | 0.0426326 | 0.1825884 | 0.348350 |
+|                          |  Original | Mean.Boot | Std.Error |  perc.025 |  perc.975 |
+| :----------------------- | --------: | --------: | --------: | --------: | --------: |
+| VSoc -\> VUrbana         | 0.5295425 | 0.5366832 | 0.0386220 | 0.4571695 | 0.6135171 |
+| VResidencial -\> VUrbana | 0.2613748 | 0.2591329 | 0.0415587 | 0.1670507 | 0.3462149 |
 
 **Taula 7: Bootstrapping R^2**
 
-|         |  Original | Mean.Boot | Std.Error | perc.025 | perc.975 |
-| :------ | --------: | --------: | --------: | -------: | -------: |
-| VUrbana | 0.5094329 | 0.5200809 |  0.032425 | 0.460778 | 0.579563 |
+|         |  Original | Mean.Boot | Std.Error |  perc.025 |  perc.975 |
+| :------ | --------: | --------: | --------: | --------: | --------: |
+| VUrbana | 0.5094329 | 0.5190116 | 0.0343501 | 0.4520849 | 0.5783954 |
 
 **Taula 8: Bootstrapping total effects**
 
-|                          |  Original | Mean.Boot | Std.Error |  perc.025 | perc.975 |
-| :----------------------- | --------: | --------: | --------: | --------: | -------: |
-| VSoc -\> VResidencial    | 0.0000000 | 0.0000000 | 0.0000000 | 0.0000000 | 0.000000 |
-| VSoc -\> VUrbana         | 0.5295425 | 0.5341134 | 0.0398461 | 0.4519148 | 0.605395 |
-| VResidencial -\> VUrbana | 0.2613748 | 0.2632162 | 0.0426326 | 0.1825884 | 0.348350 |
+|                          |  Original | Mean.Boot | Std.Error |  perc.025 |  perc.975 |
+| :----------------------- | --------: | --------: | --------: | --------: | --------: |
+| VSoc -\> VResidencial    | 0.0000000 | 0.0000000 | 0.0000000 | 0.0000000 | 0.0000000 |
+| VSoc -\> VUrbana         | 0.5295425 | 0.5366832 | 0.0386220 | 0.4571695 | 0.6135171 |
+| VResidencial -\> VUrbana | 0.2613748 | 0.2591329 | 0.0415587 | 0.1670507 | 0.3462149 |
 
 ## Anàlisi de les variables latents
 
@@ -361,11 +361,18 @@ bloc a l’extrem superior s’observa a les tres variables latents.
 
 **Figura 6: Distribució dels barris segons les puntuacions en el
 constructe de Vulnerabilitat Urbana i de Vulnerabilitat Social**
+
 <img src="README_files/figure-gfm/unnamed-chunk-23-1.png" width="75%" />
 
 **Figura 7: Distribució dels barris segons les puntuacions en el
-constructe de Vulnerabilitat Residencial i de Vulnerabilitat Social**
+constructe de Vulnerabilitat Urbana i de Vulnerabilitat Residencial**
+
 <img src="README_files/figure-gfm/unnamed-chunk-24-1.png" width="75%" />
+
+**Figura 8: Distribució dels barris segons les puntuacions en el
+constructe de Vulnerabilitat Residencial i de Vulnerabilitat Social**
+
+<img src="README_files/figure-gfm/unnamed-chunk-25-1.png" width="75%" />
 
 # Resultats d’anàlisi del model
 
@@ -373,13 +380,13 @@ A continuació es presenten un conjunt de mapes on es cartografien els
 resultats de l’IVU.
 
 **Mapa 2: Dimensió de la vulnerabilitat residencial. AMB, 2017**
-<img src="https://github.com/icg-cat/Index_Vulnerabilitat_Urbana/blob/master/imatges/200915_IVUres_2017.png" width="85%" />
+<img src="/Users/irenecg/Dropbox/2. Laboral/IERMB/2_Projectes_acabats/2020/IVU_SEM/Index_Vulnerabilitat_Urbana/imatges/200915_IVUres_2017.png" width="85%" />
 
 **Mapa 3: Dimensió de la vulnerabilitat social. AMB, 2017**
-<img src="https://github.com/icg-cat/Index_Vulnerabilitat_Urbana/blob/master/imatges/200915_IVUSoc_2017.png" width="85%" />
+<img src="/Users/irenecg/Dropbox/2. Laboral/IERMB/2_Projectes_acabats/2020/IVU_SEM/Index_Vulnerabilitat_Urbana/imatges/200915_IVUSoc_2017.png" width="85%" />
 
 **Mapa 4: Índex de vulnerabilitat urbana (IVU). AMB, 2017**
-<img src="https://github.com/icg-cat/Index_Vulnerabilitat_Urbana/blob/master/imatges/200915_IVUsimp_2017.png" width="85%" />
+<img src="/Users/irenecg/Dropbox/2. Laboral/IERMB/2_Projectes_acabats/2020/IVU_SEM/Index_Vulnerabilitat_Urbana/imatges/200915_IVUsimp_2017.png" width="85%" />
 
 # Comparació del model per anualitats
 
@@ -393,8 +400,9 @@ permet rebutjar la H0, per tant podem considerar que els coeficients
 dels dos anys són equivalents, o en altres paraules, l’índex és
 comparable entre anualitats.
 
-**Figura 8: models IVU 2015 : 2017**
-![](README_files/figure-gfm/unnamed-chunk-29-1.png)<!-- -->
+**Figura 9: models IVU 2015 : 2017**
+
+![](README_files/figure-gfm/unnamed-chunk-30-1.png)<!-- -->
 
 No hi ha diferències entre 2015 i 2016, és a dir, els models es
 comporten de manera equivalent i per tant són comparables.
@@ -408,11 +416,11 @@ comporten de manera equivalent i per tant són comparables.
     ## 
     ## $test 
     ##                        global  group.2015  group.2016  diff.abs  t.stat  deg.fr
-    ## VSoc->VUrbana          0.5315      0.5504      0.5088    0.0416  0.5230     534
-    ## VResidencial->VUrbana  0.2640      0.2557      0.2747    0.0190  0.2838     534
+    ## VSoc->VUrbana          0.5315      0.5504      0.5088    0.0416  0.7102     534
+    ## VResidencial->VUrbana  0.2640      0.2557      0.2747    0.0190  0.3660     534
     ##                        p.value  sig.05
-    ## VSoc->VUrbana           0.3006      no
-    ## VResidencial->VUrbana   0.3883      no
+    ## VSoc->VUrbana           0.2389      no
+    ## VResidencial->VUrbana   0.3573      no
     ## 
     ## Inner models in the following objects: 
     ## $global  
@@ -431,11 +439,11 @@ els models són comparables.
     ## 
     ## $test 
     ##                        global  group.2015  group.2017  diff.abs  t.stat  deg.fr
-    ## VSoc->VUrbana          0.5424      0.5504      0.5295    0.0209  0.4044     534
-    ## VResidencial->VUrbana  0.2574      0.2557      0.2614    0.0057  0.0733     534
+    ## VSoc->VUrbana          0.5424      0.5504      0.5295    0.0209  0.2213     534
+    ## VResidencial->VUrbana  0.2574      0.2557      0.2614    0.0057  0.0870     534
     ##                        p.value  sig.05
-    ## VSoc->VUrbana           0.3430      no
-    ## VResidencial->VUrbana   0.4708      no
+    ## VSoc->VUrbana           0.4125      no
+    ## VResidencial->VUrbana   0.4653      no
     ## 
     ## Inner models in the following objects: 
     ## $global  
@@ -565,39 +573,39 @@ Partial Least Squares Path Modeling (PLS-PM). R package version 0.4.9.
     ## BOOTSTRAP VALIDATION 
     ## weights 
     ##                          Original  Mean.Boot  Std.Error  perc.025  perc.975
-    ## VSoc-SOC_estrangers        -0.370     -0.379    0.15236   -0.6928    -0.074
-    ## VSoc-SOC_gentG              0.250      0.249    0.08124    0.0896     0.424
-    ## VSoc-SOC_baixes             1.174      1.175    0.12754    0.9474     1.452
-    ## VResidencial-ESP_ruinos     0.217      0.217    0.09360    0.0476     0.402
-    ## VResidencial-ESP_antig      0.685      0.685    0.08881    0.4847     0.852
-    ## VResidencial-ESP_dens       0.365      0.358    0.10271    0.1490     0.559
-    ## VUrbana-URB_estudis         0.423      0.421    0.01225    0.3986     0.446
-    ## VUrbana-URB_noRA            0.358      0.356    0.00896    0.3400     0.374
-    ## VUrbana-URB_lloguer         0.295      0.297    0.01318    0.2724     0.322
+    ## VSoc-SOC_estrangers        -0.370     -0.404    0.15551   -0.7102    -0.133
+    ## VSoc-SOC_gentG              0.250      0.241    0.07815    0.0914     0.397
+    ## VSoc-SOC_baixes             1.174      1.202    0.13055    0.9688     1.467
+    ## VResidencial-ESP_ruinos     0.217      0.217    0.09256    0.0153     0.380
+    ## VResidencial-ESP_antig      0.685      0.676    0.09014    0.4940     0.832
+    ## VResidencial-ESP_dens       0.365      0.366    0.10296    0.1651     0.557
+    ## VUrbana-URB_estudis         0.423      0.421    0.01237    0.3994     0.445
+    ## VUrbana-URB_noRA            0.358      0.357    0.00856    0.3392     0.373
+    ## VUrbana-URB_lloguer         0.295      0.297    0.01321    0.2706     0.321
     ## 
     ## loadings 
     ##                          Original  Mean.Boot  Std.Error  perc.025  perc.975
-    ## VSoc-SOC_estrangers         0.745      0.736    0.06521     0.606     0.849
-    ## VSoc-SOC_gentG              0.560      0.562    0.07199     0.419     0.702
-    ## VSoc-SOC_baixes             0.967      0.960    0.02102     0.909     0.989
-    ## VResidencial-ESP_ruinos     0.375      0.374    0.09018     0.198     0.553
-    ## VResidencial-ESP_antig      0.913      0.908    0.03674     0.825     0.963
-    ## VResidencial-ESP_dens       0.802      0.791    0.05949     0.662     0.898
-    ## VUrbana-URB_estudis         0.936      0.937    0.00547     0.925     0.947
-    ## VUrbana-URB_noRA            0.967      0.967    0.00459     0.957     0.975
-    ## VUrbana-URB_lloguer         0.874      0.876    0.01720     0.839     0.905
+    ## VSoc-SOC_estrangers         0.745      0.738    0.05591     0.625     0.835
+    ## VSoc-SOC_gentG              0.560      0.554    0.07224     0.402     0.681
+    ## VSoc-SOC_baixes             0.967      0.961    0.01863     0.916     0.989
+    ## VResidencial-ESP_ruinos     0.375      0.382    0.08846     0.197     0.540
+    ## VResidencial-ESP_antig      0.913      0.905    0.03703     0.819     0.966
+    ## VResidencial-ESP_dens       0.802      0.798    0.05592     0.686     0.896
+    ## VUrbana-URB_estudis         0.936      0.937    0.00584     0.924     0.948
+    ## VUrbana-URB_noRA            0.967      0.967    0.00394     0.959     0.974
+    ## VUrbana-URB_lloguer         0.874      0.877    0.01781     0.839     0.911
     ## 
     ## paths 
     ##                          Original  Mean.Boot  Std.Error  perc.025  perc.975
-    ## VSoc -> VUrbana             0.530      0.534     0.0398     0.452     0.605
-    ## VResidencial -> VUrbana     0.261      0.263     0.0426     0.183     0.348
+    ## VSoc -> VUrbana             0.530      0.537     0.0386     0.457     0.614
+    ## VResidencial -> VUrbana     0.261      0.259     0.0416     0.167     0.346
     ## 
     ## rsq 
     ##          Original  Mean.Boot  Std.Error  perc.025  perc.975
-    ## VUrbana     0.509       0.52     0.0324     0.461      0.58
+    ## VUrbana     0.509      0.519     0.0344     0.452     0.578
     ## 
     ## total.efs 
     ##                          Original  Mean.Boot  Std.Error  perc.025  perc.975
     ## VSoc -> VResidencial        0.000      0.000     0.0000     0.000     0.000
-    ## VSoc -> VUrbana             0.530      0.534     0.0398     0.452     0.605
-    ## VResidencial -> VUrbana     0.261      0.263     0.0426     0.183     0.348
+    ## VSoc -> VUrbana             0.530      0.537     0.0386     0.457     0.614
+    ## VResidencial -> VUrbana     0.261      0.259     0.0416     0.167     0.346
